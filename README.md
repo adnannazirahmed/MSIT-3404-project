@@ -1,5 +1,7 @@
 # MSIT 3404 — Cloud & DevOps Group Project
 
+Built by Adnan Nazir Ahmed & Shirish Maharjan
+
 > A containerized full-stack web application deployed on Kubernetes, built for the MSIT 3404 Cloud & DevOps course at Clark University.
 
 ---
